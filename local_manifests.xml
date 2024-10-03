@@ -26,7 +26,7 @@
     <!-- Vendor - Common -->
 
     <!-- Hardware -->
-    <project path="hardware_qcom_audio/tree/11" name="hardware_qcom_media" remote="Bugaddr" revision="11" />
+    <project path="hardware_qcom_media/tree/11" name="hardware_qcom_media" remote="Bugaddr" revision="11" />
     <project path="hardware_qcom_audio/tree/11" name="hardware_qcom_audio " remote="Bugaddr" revision="11" />
 
 </manifest>
